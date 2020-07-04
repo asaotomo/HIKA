@@ -1,2 +1,2 @@
 # HIKA
-A WeChat official account crawler based on Python
+A Wechat Official Accounts web crawler based on Python
